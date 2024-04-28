@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on backend project
 - 📫 How to reach me: [synchrosec@gmail.com](synchrosec@gmail.com)
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
-[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 
